@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\empresa de entregas mercado livre\\empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|solutionrelative:empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\empresa de entregas mercado livre\\empresa de entregas mercado livre\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|solutionrelative:empresa de entregas mercado livre\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\empresa de entregas mercado livre\\empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|solutionrelative:empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\empresa de entregas mercado livre\\empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35B86753-BC0F-4F77-8EAF-BBFAF925EB81}|Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre.csproj|solutionrelative:empresa de entregas mercado livre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "Empresa de Entregas Mercado livre\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre\\FrmCliente.cs [Design]",
+              "RelativeToolTip": "Empresa de Entregas Mercado livre\\FrmCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:13:59.321Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,14 +44,14 @@
               "RelativeDocumentMoniker": "Empresa de Entregas Mercado livre\\Form1.cs",
               "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre\\Form1.cs",
               "RelativeToolTip": "Empresa de Entregas Mercado livre\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T14:40:15.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Empresa de Entregas Mercado livre\\Empresa de Entregas Mercado livre\\Form1.cs",
               "RelativeDocumentMoniker": "Empresa de Entregas Mercado livre\\Form1.cs",

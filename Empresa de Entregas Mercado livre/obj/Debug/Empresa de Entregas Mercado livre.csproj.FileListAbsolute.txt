@@ -1,0 +1,10 @@
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\bin\Debug\Empresa de Entregas Mercado livre.exe.config
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\bin\Debug\Empresa de Entregas Mercado livre.exe
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\bin\Debug\Empresa de Entregas Mercado livre.pdb
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa de Entregas Mercado livre.csproj.AssemblyReference.cache
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa_de_Entregas_Mercado_livre.Form1.resources
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa_de_Entregas_Mercado_livre.Properties.Resources.resources
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa de Entregas Mercado livre.csproj.GenerateResource.cache
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa de Entregas Mercado livre.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa de Entregas Mercado livre.exe
+C:\Users\paulo.hfsilva19\source\repos\Empresa de Entregas Mercado livre\Empresa de Entregas Mercado livre\obj\Debug\Empresa de Entregas Mercado livre.pdb
